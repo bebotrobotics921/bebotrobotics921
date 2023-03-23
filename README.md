@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey Everyone 👋 It's Jessica!
 
-<!--
-**bebotrobotics921/bebotrobotics921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<a href="https://www.linkedin.com/in/jessica-woo-080b50aa/">
+</a>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+**Talking about Personal Stuff**
+
+- 🔭 I’m currently working of my portfolio as a Frontend Developer
+- 🌱 I’m currently learning React and Node.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything, would love to answer them.
+- 📫 How to reach me: any social media platform
+- 😄 
+- ⚡ Fun fact: I can turn imagination into reality.
 -->
